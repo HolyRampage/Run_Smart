@@ -6,6 +6,7 @@
 }
 
 .container {
+    position: relative;
     max-width: 950px;
     margin: 0 auto;
 }
@@ -17,3 +18,7 @@
 @import '_titles.scss';
 @import '_consultation.scss';
 @import '_forms.scss';
+@import '_carousel.scss';
+@import '_catalog.scss';
+@import '_reviews.scss';
+@import '_footer.scss';
